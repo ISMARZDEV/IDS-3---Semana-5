@@ -1,0 +1,14 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\hfsa2\OneDrive - INTEC\Trimestres\T-5\Lab. Desarrollo De Software III\S-5\ServiceLog4NetLab\ServiceLog4NetLab\bin\Debug\ServiceLog4NetLab.exe assembly's progress.
+The file is located at C:\Users\hfsa2\OneDrive - INTEC\Trimestres\T-5\Lab. Desarrollo De Software III\S-5\ServiceLog4NetLab\ServiceLog4NetLab\bin\Debug\ServiceLog4NetLab.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\hfsa2\OneDrive - INTEC\Trimestres\T-5\Lab. Desarrollo De Software III\S-5\ServiceLog4NetLab\ServiceLog4NetLab\bin\Debug\ServiceLog4NetLab.exe assembly's progress.
+The file is located at C:\Users\hfsa2\OneDrive - INTEC\Trimestres\T-5\Lab. Desarrollo De Software III\S-5\ServiceLog4NetLab\ServiceLog4NetLab\bin\Debug\ServiceLog4NetLab.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.

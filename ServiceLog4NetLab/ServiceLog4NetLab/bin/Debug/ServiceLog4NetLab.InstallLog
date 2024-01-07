@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\hfsa2\OneDrive - INTEC\Trimestres\T-5\Lab. Desarrollo De Software III\S-5\ServiceLog4NetLab\ServiceLog4NetLab\bin\Debug\ServiceLog4NetLab.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hfsa2\OneDrive - INTEC\Trimestres\T-5\Lab. Desarrollo De Software III\S-5\ServiceLog4NetLab\ServiceLog4NetLab\bin\Debug\ServiceLog4NetLab.InstallLog
+   assemblypath = C:\Users\hfsa2\OneDrive - INTEC\Trimestres\T-5\Lab. Desarrollo De Software III\S-5\ServiceLog4NetLab\ServiceLog4NetLab\bin\Debug\ServiceLog4NetLab.exe
+Installing service ServiceLab5...
+Service ServiceLab5 has been successfully installed.
+Creating EventLog source ServiceLab5 in log Application...
+Committing assembly 'C:\Users\hfsa2\OneDrive - INTEC\Trimestres\T-5\Lab. Desarrollo De Software III\S-5\ServiceLog4NetLab\ServiceLog4NetLab\bin\Debug\ServiceLog4NetLab.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hfsa2\OneDrive - INTEC\Trimestres\T-5\Lab. Desarrollo De Software III\S-5\ServiceLog4NetLab\ServiceLog4NetLab\bin\Debug\ServiceLog4NetLab.InstallLog
+   assemblypath = C:\Users\hfsa2\OneDrive - INTEC\Trimestres\T-5\Lab. Desarrollo De Software III\S-5\ServiceLog4NetLab\ServiceLog4NetLab\bin\Debug\ServiceLog4NetLab.exe

@@ -1,0 +1,15 @@
+C:\Users\hfsa2\OneDrive - INTEC\Trimestres\T-5\Lab. Desarrollo De Software III\S-5\ServiceLog4NetLab\ServiceLog4NetLab\bin\Debug\MyData.mdf
+C:\Users\hfsa2\OneDrive - INTEC\Trimestres\T-5\Lab. Desarrollo De Software III\S-5\ServiceLog4NetLab\ServiceLog4NetLab\bin\Debug\MyData_log.ldf
+C:\Users\hfsa2\OneDrive - INTEC\Trimestres\T-5\Lab. Desarrollo De Software III\S-5\ServiceLog4NetLab\ServiceLog4NetLab\bin\Debug\ServiceLog4NetLab.exe.config
+C:\Users\hfsa2\OneDrive - INTEC\Trimestres\T-5\Lab. Desarrollo De Software III\S-5\ServiceLog4NetLab\ServiceLog4NetLab\bin\Debug\ServiceLog4NetLab.exe
+C:\Users\hfsa2\OneDrive - INTEC\Trimestres\T-5\Lab. Desarrollo De Software III\S-5\ServiceLog4NetLab\ServiceLog4NetLab\bin\Debug\ServiceLog4NetLab.pdb
+C:\Users\hfsa2\OneDrive - INTEC\Trimestres\T-5\Lab. Desarrollo De Software III\S-5\ServiceLog4NetLab\ServiceLog4NetLab\obj\Debug\ServiceLog4NetLab.csproj.AssemblyReference.cache
+C:\Users\hfsa2\OneDrive - INTEC\Trimestres\T-5\Lab. Desarrollo De Software III\S-5\ServiceLog4NetLab\ServiceLog4NetLab\obj\Debug\ServiceLog4NetLab.ProjectInstaller.resources
+C:\Users\hfsa2\OneDrive - INTEC\Trimestres\T-5\Lab. Desarrollo De Software III\S-5\ServiceLog4NetLab\ServiceLog4NetLab\obj\Debug\ServiceLog4NetLab.csproj.GenerateResource.cache
+C:\Users\hfsa2\OneDrive - INTEC\Trimestres\T-5\Lab. Desarrollo De Software III\S-5\ServiceLog4NetLab\ServiceLog4NetLab\obj\Debug\ServiceLog4NetLab.csproj.CoreCompileInputs.cache
+C:\Users\hfsa2\OneDrive - INTEC\Trimestres\T-5\Lab. Desarrollo De Software III\S-5\ServiceLog4NetLab\ServiceLog4NetLab\obj\Debug\ServiceLog4NetLab.exe
+C:\Users\hfsa2\OneDrive - INTEC\Trimestres\T-5\Lab. Desarrollo De Software III\S-5\ServiceLog4NetLab\ServiceLog4NetLab\obj\Debug\ServiceLog4NetLab.pdb
+C:\Users\hfsa2\OneDrive - INTEC\Trimestres\T-5\Lab. Desarrollo De Software III\S-5\ServiceLog4NetLab\ServiceLog4NetLab\obj\Debug\ServiceLog4NetLab.Service1.resources
+C:\Users\hfsa2\OneDrive - INTEC\Trimestres\T-5\Lab. Desarrollo De Software III\S-5\ServiceLog4NetLab\ServiceLog4NetLab\bin\Debug\log4net.dll
+C:\Users\hfsa2\OneDrive - INTEC\Trimestres\T-5\Lab. Desarrollo De Software III\S-5\ServiceLog4NetLab\ServiceLog4NetLab\bin\Debug\log4net.xml
+C:\Users\hfsa2\OneDrive - INTEC\Trimestres\T-5\Lab. Desarrollo De Software III\S-5\ServiceLog4NetLab\ServiceLog4NetLab\obj\Debug\ServiceLog4NetLab.csproj.CopyComplete
